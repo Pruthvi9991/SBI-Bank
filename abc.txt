@@ -1,1 +1,2 @@
-Hi Hello checking Conflict error
+<<<<<<< HEAD
+Hi Hello checking Conflict error.
